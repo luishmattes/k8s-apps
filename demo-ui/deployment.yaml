@@ -14,7 +14,7 @@ labels:
 app: demo-ui
 spec:
 containers:
-- image: jucirodri/demo-ui:f4a0feb96f933c32840bfcdd3d4d4435f6cf04f1
+- image: luishmattes/demo-ui:79b28e43eb676b14c8bcb134e99df2ddba79c67a
 name: demo-ui
 ports:
 - containerPort: 80
